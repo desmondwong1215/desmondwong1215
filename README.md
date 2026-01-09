@@ -31,5 +31,5 @@ My primary expertise lies in React, TypeScript, and Flutter. I also actively bro
 
 
 ## 🤝 Connect with Me
-I am always open to discussing new opportunities or tech!
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/desmondwong1215/).
+I am always open to discussing new opportunities or tech!<br>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/desmondwong1215/)
