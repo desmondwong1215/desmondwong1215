@@ -26,7 +26,9 @@ I am currently focused on contributing to NUS OSS (NUS Open Source Software), in
 - And other various community-driven projects.
 
 ## 💻 Tech Stack
-My primary expertise lies in React, TypeScript, and Flutter. I also actively broaden my technical horizons by exposing myself to different stacks through my various Open Source contributions.
+My primary expertise lies in React, TypeScript, and Flutter. I also actively broaden my technical horizons by exposing myself to different stacks through my various Open Source contributions. <br>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,flutter,java,py)](https://skillicons.dev)
+
 
 ## 🤝 Connect with Me
 I am always open to discussing new opportunities or tech!
