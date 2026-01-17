@@ -21,7 +21,6 @@ I have a passion for problem-solving and enjoy building impactful projects!
 ## 🛠️ Open Source Contributions
 I am currently focused on contributing to NUS OSS (NUS Open Source Software), including:
 - Git Mastery
-- RepoSense
 - Source Academy
 - And other various community-driven projects.
 
